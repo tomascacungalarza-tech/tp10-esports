@@ -1,0 +1,9 @@
+<?php
+declare(strict_types=1);
+
+// Copiar como config.php y completar con los datos del entorno local.
+// No guardar credenciales reales en el repositorio público.
+define('DB_HOST', '127.0.0.1');
+define('DB_NAME', 'esports_db');
+define('DB_USER', 'root');
+define('DB_PASS', '');
